@@ -248,3 +248,51 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+/*Bright Red*/
+.theme0base-0g .sidebar {
+  background-color: #FD0606;
+}
+.theme0base-0g .content a,
+.theme0base-0g .related-posts li a:hover{
+    color: #FD0606;
+}
+/* turquoise */
+.theme0base-0h .sidebar {
+  background-color: #0CFCDC;
+}
+.theme0base-0h .content a,
+.theme0base-0h .related-posts li a:hover {
+    color: #0CFCDC;
+}    
+/* Royal Blue */
+.theme0base-0i .sidebar { 
+  background-color: #078AFC;
+}
+.theme0base-0i .content a,
+.theme0base-0i .related-posts li a:hover {
+    color: #078AFC;
+} 
+/* Purple */
+.theme0base-0j .sidebar {
+  background-color: #A90AFF;
+}
+.theme0base-0j .content a,
+.theme0base-0j .related-posts li a:hover {
+    color: #A90AFF;
+} 
+/* Dark Green */
+.theme0base-0k .sidebar {
+  background-color: #03B700;
+}
+.theme0base-0k .content a,
+.theme0base-0k .related-posts li a:hover {
+    color: #03B700;
+} 
+/* Bright Yellow */
+.theme0base-0l .sidebar { 
+  background-color: #F1FD06;
+}
+.theme0base-0l .content a,
+.theme0base-0l .related-posts li a:hover {
+    color: #F1FD06;
+} 
